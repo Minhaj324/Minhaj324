@@ -34,6 +34,21 @@ A modern web app for hotel reservations with responsive UI and dynamic data hand
 
 ---
 
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhaj324&show_icons=true&theme=tokyonight&hide_border=true" alt="Minhaj's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhaj324&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj324&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+
 ### 🌎 Connect With Me
 
 - 📧 **Email:** minhajbashir417@gmail.com  
